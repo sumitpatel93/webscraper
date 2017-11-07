@@ -1,0 +1,500 @@
+BTC
+                        Bitcoin
+ETH
+                        Ethereum
+BCH
+                        Bitcoin Cash
+XRP
+                        Ripple
+LTC
+                        Litecoin
+DASH
+                        Dash
+NEO
+                        NEO
+XEM
+                        NEM
+XMR
+                        Monero
+ETC
+                        Ethereum Classic
+MIOTA
+                        IOTA
+QTUM
+                        Qtum
+OMG
+                        OmiseGO
+ZEC
+                        Zcash
+ADA
+                        Cardano
+BCC
+                        BitConnect
+LSK
+                        Lisk
+USDT
+                        Tether
+XLM
+                        Stellar Lumens
+EOS
+                        EOS
+WAVES
+                        Waves
+HSR
+                        Hshare
+STRAT
+                        Stratis
+KMD
+                        Komodo
+ARK
+                        Ark
+BCN
+                        Bytecoin
+STEEM
+                        Steem
+ARDR
+                        Ardor
+REP
+                        Augur
+DCR
+                        Decred
+PAY
+                        TenX
+MAID
+                        MaidSafeCoin
+PPT
+                        Populous
+PIVX
+                        PIVX
+GNT
+                        Golem
+BNB
+                        Binance Coin
+BTS
+                        BitShares
+VTC
+                        Vertcoin
+BTCD
+                        BitcoinDark
+GAS
+                        Gas
+MONA
+                        MonaCoin
+TRX
+                        TRON
+BAT
+                        Basic Attenti...
+KNC
+                        Kyber Network
+FCT
+                        Factom
+DOGE
+                        Dogecoin
+SALT
+                        SALT
+WTC
+                        Walton
+DGD
+                        DigixDAO
+XVG
+                        Verge
+SC
+                        Siacoin
+VERI
+                        Veritaseum
+GBYTE
+                        Byteball Bytes
+GAME
+                        GameCredits
+ICN
+                        Iconomi
+BTM
+                        Bytom
+SYS
+                        Syscoin
+SNT
+                        Status
+MTL
+                        Metal
+CVC
+                        Civic
+LKK
+                        Lykke
+GXS
+                        GXShares
+SNGLS
+                        SingularDTV
+ZRX
+                        0x
+AE
+                        Aeternity
+BLOCK
+                        Blocknet
+DGB
+                        DigiByte
+ATM
+                        ATMChain
+BNT
+                        Bancor
+ETP
+                        Metaverse ETP
+GNO
+                        Gnosis
+VEN
+                        VeChain
+PURA
+                        Pura
+PART
+                        Particl
+FUN
+                        FunFair
+BQX
+                        Bitquence
+KCS
+                        KuCoin Shares
+MCO
+                        Monaco
+LINK
+                        ChainLink
+NXT
+                        Nxt
+ADX
+                        AdEx
+MCAP
+                        MCAP
+ZEN
+                        ZenCash
+XZC
+                        ZCoin
+NXS
+                        Nexus
+GRS
+                        Groestlcoin
+ZSC
+                        Zeusshield
+NAV
+                        NAV Coin
+STORJ
+                        Storj
+FAIR
+                        FairCoin
+NEBL
+                        Neblio
+BDL
+                        Bitdeal
+LRC
+                        Loopring
+EDG
+                        Edgeless
+RLC
+                        iExec RLC
+UBQ
+                        Ubiq
+NLC2
+                        NoLimitCoin
+SMART
+                        SmartCash
+POT
+                        PotCoin
+AST
+                        AirSwap
+BTC
+                        BitcoinETH
+                        EthereumBCH
+                        Bitcoin CashXRP
+                        RippleLTC
+                        LitecoinDASH
+                        DashNEO
+                        NEOXEM
+                        NEMXMR
+                        MoneroETC
+                        Ethereum ClassicMIOTA
+                        IOTAQTUM
+                        QtumOMG
+                        OmiseGOZEC
+                        ZcashADA
+                        CardanoBCC
+                        BitConnectLSK
+                        LiskUSDT
+                        TetherXLM
+                        Stellar LumensEOS
+                        EOSWAVES
+                        WavesHSR
+                        HshareSTRAT
+                        StratisKMD
+                        KomodoARK
+                        ArkBCN
+                        BytecoinSTEEM
+                        SteemARDR
+                        ArdorREP
+                        AugurDCR
+                        DecredPAY
+                        TenXMAID
+                        MaidSafeCoinPPT
+                        PopulousPIVX
+                        PIVXGNT
+                        GolemBTS
+                        BitSharesBNB
+                        Binance CoinBTCD
+                        BitcoinDarkVTC
+                        VertcoinGAS
+                        GasMONA
+                        MonaCoinTRX
+                        TRONBAT
+                        Basic Attenti...KNC
+                        Kyber NetworkFCT
+                        FactomSALT
+                        SALTDOGE
+                        DogecoinWTC
+                        WaltonDGD
+                        DigixDAOXVG
+                        VergeSC
+                        SiacoinVERI
+                        VeritaseumGBYTE
+                        Byteball BytesGAME
+                        GameCreditsICN
+                        IconomiBTM
+                        BytomSYS
+                        SyscoinSNT
+                        StatusMTL
+                        MetalCVC
+                        CivicLKK
+                        LykkeGXS
+                        GXSharesSNGLS
+                        SingularDTVZRX
+                        0xBLOCK
+                        BlocknetAE
+                        AeternityDGB
+                        DigiByteATM
+                        ATMChainBNT
+                        BancorETP
+                        Metaverse ETPGNO
+                        GnosisPURA
+                        PuraVEN
+                        VeChainPART
+                        ParticlFUN
+                        FunFairBQX
+                        BitquenceKCS
+                        KuCoin SharesMCO
+                        MonacoLINK
+                        ChainLinkNXT
+                        NxtADX
+                        AdExMCAP
+                        MCAPZEN
+                        ZenCashXZC
+                        ZCoinNXS
+                        NexusZSC
+                        ZeusshieldNAV
+                        NAV CoinSTORJ
+                        StorjGRS
+                        GroestlcoinNEBL
+                        NeblioFAIR
+                        FairCoinBDL
+                        BitdealSMART
+                        SmartCashRLC
+                        iExec RLCEDG
+                        EdgelessUBQ
+                        UbiqLRC
+                        LoopringNLC2
+                        NoLimitCoinPOT
+                        PotCoinAST
+                        AirSwapBTC
+                        Bitcoin
+ETH
+                        Ethereum
+BCH
+                        Bitcoin Cash
+XRP
+                        Ripple
+LTC
+                        Litecoin
+DASH
+                        Dash
+NEO
+                        NEO
+XEM
+                        NEM
+XMR
+                        Monero
+ETC
+                        Ethereum Classic
+MIOTA
+                        IOTA
+QTUM
+                        Qtum
+OMG
+                        OmiseGO
+ZEC
+                        Zcash
+ADA
+                        Cardano
+BCC
+                        BitConnect
+LSK
+                        Lisk
+USDT
+                        Tether
+XLM
+                        Stellar Lumens
+EOS
+                        EOS
+WAVES
+                        Waves
+HSR
+                        Hshare
+STRAT
+                        Stratis
+KMD
+                        Komodo
+ARK
+                        Ark
+BCN
+                        Bytecoin
+STEEM
+                        Steem
+ARDR
+                        Ardor
+REP
+                        Augur
+DCR
+                        Decred
+PAY
+                        TenX
+MAID
+                        MaidSafeCoin
+PPT
+                        Populous
+PIVX
+                        PIVX
+GNT
+                        Golem
+BTS
+                        BitShares
+BNB
+                        Binance Coin
+BTCD
+                        BitcoinDark
+VTC
+                        Vertcoin
+GAS
+                        Gas
+MONA
+                        MonaCoin
+TRX
+                        TRON
+BAT
+                        Basic Attenti...
+KNC
+                        Kyber Network
+FCT
+                        Factom
+SALT
+                        SALT
+DOGE
+                        Dogecoin
+WTC
+                        Walton
+DGD
+                        DigixDAO
+XVG
+                        Verge
+SC
+                        Siacoin
+VERI
+                        Veritaseum
+GBYTE
+                        Byteball Bytes
+GAME
+                        GameCredits
+ICN
+                        Iconomi
+BTM
+                        Bytom
+SYS
+                        Syscoin
+SNT
+                        Status
+MTL
+                        Metal
+CVC
+                        Civic
+LKK
+                        Lykke
+GXS
+                        GXShares
+SNGLS
+                        SingularDTV
+ZRX
+                        0x
+BLOCK
+                        Blocknet
+AE
+                        Aeternity
+DGB
+                        DigiByte
+ATM
+                        ATMChain
+BNT
+                        Bancor
+ETP
+                        Metaverse ETP
+GNO
+                        Gnosis
+PURA
+                        Pura
+VEN
+                        VeChain
+PART
+                        Particl
+FUN
+                        FunFair
+BQX
+                        Bitquence
+KCS
+                        KuCoin Shares
+MCO
+                        Monaco
+LINK
+                        ChainLink
+NXT
+                        Nxt
+ADX
+                        AdEx
+MCAP
+                        MCAP
+ZEN
+                        ZenCash
+XZC
+                        ZCoin
+NXS
+                        Nexus
+ZSC
+                        Zeusshield
+NAV
+                        NAV Coin
+STORJ
+                        Storj
+GRS
+                        Groestlcoin
+NEBL
+                        Neblio
+FAIR
+                        FairCoin
+BDL
+                        Bitdeal
+SMART
+                        SmartCash
+RLC
+                        iExec RLC
+EDG
+                        Edgeless
+UBQ
+                        Ubiq
+LRC
+                        Loopring
+NLC2
+                        NoLimitCoin
+POT
+                        PotCoin
+AST
+                        AirSwap
